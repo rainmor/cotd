@@ -4,6 +4,9 @@
 PHP web application using JQuery Mobile that publishes a list of ordered items. 
 Each item has an image and trivia associated with it.
 
+php web应用程序使用JQuery mobile发布一个有序项目列表。每个项目都有与它相关的图像和琐事。
+
+
 Item lists are organised as themes. The application looks for an environment variable known as SELECTOR to set the theme.
 The default theme is SELECTOR="pets" using images supplied by my work colleagues. Other themes include "cats" and "cities".
 By default, item image content is sourced from the local data directory. 
